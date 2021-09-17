@@ -1,0 +1,2 @@
+create seperate velocity and 
+color advection shaders
