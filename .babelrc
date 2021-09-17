@@ -1,6 +1,0 @@
-{
-  "plugins": [
-    "glsl",
-    [ "import-to-require", { "modules": "glslify" } ]
-  ]
-}
